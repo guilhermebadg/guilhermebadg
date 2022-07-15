@@ -3,7 +3,6 @@
 
 - 🔭 Busco minha primeira experiência profissional como Jovem Aprendiz na área de programação/TI.
 - 🌱 Atualmente estou estudando JavaScript
-- 📫 Contate-me em: guilhermebadg@gmail.com
 - 😄 Pronouns: he/him
 
 <div align="center">
