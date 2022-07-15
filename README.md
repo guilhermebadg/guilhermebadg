@@ -1,9 +1,9 @@
 ### Olá, meu nome é Guilherme Barbosa! 👋
 ##
 
-🔭 Busco minha primeira experiência profissional como Jovem Aprendiz na área de programação/TI.
-🌱 Atualmente estou estudando JavaScript...
-😄 Pronouns: ele/dele
+- 🔭 Busco minha primeira experiência profissional como Jovem Aprendiz na área de programação/TI.
+- 🌱 Atualmente estou estudando JavaScript...
+- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/guilhermebadg">
