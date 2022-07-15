@@ -2,6 +2,11 @@
 Sou formado em Programação WEB pelo Instituto da Oportunidade Social (IOS) no primeiro semestre de 2022. Durante o curso técnico, tive contato com as linguagens HTML, CSS, JavaScript e Java e outros acessórios como React, Bootstrap, Git e GitHub.
 ##
 
+### MEU CV: 
+<div align="center">
+  <a href="https://drive.google.com/file/d/1b9zjWIzXFtsq9k_71dBK6u2ZVK7BPQCm/view?usp=sharing">
+</div>
+
 - 🔭 Busco minha primeira experiência profissional como Jovem Aprendiz na área de programação/TI.
 - 🌱 Atualmente estou estudando JavaScript...
 - 😄 Pronouns: ele/dele
