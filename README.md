@@ -7,6 +7,8 @@ Sou formado em Programação WEB pelo Instituto da Oportunidade Social (IOS) no 
   <a href="https://drive.google.com/file/d/1b9zjWIzXFtsq9k_71dBK6u2ZVK7BPQCm/view?usp=sharing">
 </div>
 
+##
+
 - 🔭 Busco minha primeira experiência profissional como Jovem Aprendiz na área de programação/TI.
 - 🌱 Atualmente estou estudando JavaScript...
 - 😄 Pronouns: ele/dele
