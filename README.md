@@ -4,7 +4,6 @@ Sou formado em Programação WEB pelo Instituto da Oportunidade Social (IOS) no 
 
 - 🔭 Busco minha primeira experiência profissional como Jovem Aprendiz na área de programação/TI.
 - 🌱 Atualmente estou estudando JavaScript...
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/guilhermebadg">
