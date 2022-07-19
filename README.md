@@ -25,6 +25,10 @@ Sou formado em Programação WEB pelo Instituto da Oportunidade Social (IOS) no 
   </div>
   
    ##
+   
+   <p align="center">
+    <img src="https://tenor.com/search/programador-gifs."
+   </p>
  
 <div> 
   <a href="https://instagram.com/gbadg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
