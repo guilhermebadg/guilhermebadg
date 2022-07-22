@@ -2,9 +2,9 @@
 Sou formado em Programação WEB pelo Instituto da Oportunidade Social (IOS) no primeiro semestre de 2022. Durante o curso técnico, tive contato com as linguagens HTML, CSS, JavaScript e Java e outros acessórios como React, Bootstrap, Git e GitHub.
 ## 
 
-* 🔭 Busco minha primeira experiência profissional como Jovem Aprendiz na área de programação/TI.
-* 
+* 🎯 Busco minha primeira experiência profissional como Jovem Aprendiz na área de programação/TI.
 * 🌱 Atualmente estou estudando JavaScript...
+* ✨ Gosto de ouvir música e ir ao cinema :)
 
 <div align="center">
   <a href="https://github.com/guilhermebadg">
