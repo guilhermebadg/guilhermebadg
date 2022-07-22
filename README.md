@@ -23,7 +23,6 @@ Sou formado em Programação WEB pelo Instituto da Oportunidade Social (IOS) no 
   <img align="center" alt="CANVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   </div>
   
-  
    ##
    
 <div> 
