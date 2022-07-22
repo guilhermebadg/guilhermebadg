@@ -3,12 +3,13 @@ Sou formado em Programação WEB pelo Instituto da Oportunidade Social (IOS) no 
 ## 
 
 * 🔭 Busco minha primeira experiência profissional como Jovem Aprendiz na área de programação/TI.
+* 
 * 🌱 Atualmente estou estudando JavaScript...
 
 <div align="center">
   <a href="https://github.com/guilhermebadg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebadg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebadg&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebadg&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebadg&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -21,7 +22,6 @@ Sou formado em Programação WEB pelo Instituto da Oportunidade Social (IOS) no 
   <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="CANVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-  <img align="right" height="80" style="border-radius:50px" src="src/assets/to_readme/gf.gif">
   </div>
   
    ##
