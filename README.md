@@ -24,7 +24,7 @@ Sou formado em Programação WEB pelo Instituto da Oportunidade Social (IOS) no 
   <img align="center" alt="CANVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   </div>
   
-   ## Vamos nos conectar? ✉️
+   ### Vamos nos conectar? ✉️
    
 <div> 
   <a href="https://instagram.com/gbadg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
