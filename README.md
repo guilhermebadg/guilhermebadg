@@ -12,7 +12,9 @@ Sou formado em Programação WEB pelo Instituto da Oportunidade Social (IOS) no 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebadg&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
   
- <div style="display: inline_block"><br>
+  ### Softwares:
+ 
+ <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
